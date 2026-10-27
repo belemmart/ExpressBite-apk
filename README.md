@@ -1,49 +1,44 @@
-<div align="center"> <img src="logo.png" alt="Logo de ExpressBite" width="200"/>
 🍔 ExpressBite
-Tu comida rápida favorita, a un toque de distancia
 
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+App móvil de pedidos de comida rápida para Android.
 
-<br/>
+Elige tu antojo, arma tu pedido y síguelo hasta tu puerta.
 
-Descargar APK
+⬇️ Descargar
 
-📦 Ver última versión · 🐞 Reportar un problema
+El APK está en Releases (a la derecha de esta página).
 
-</div>
-✨ ¿Qué puedes hacer en ExpressBite?
-	
-🍕 Elegir tu antojo	Hamburguesas, pizzas, tacos, pollo y bebidas con buscador y categorías.
-🛒 Armar tu pedido	Personaliza ingredientes, agrega notas y aplica tu código promocional.
-📍 Guardar direcciones	Agrega, edita o elimina tus direcciones de entrega.
-⭐ Ganar puntos	Acumula puntos pagando en efectivo y úsalos para pagar tus pedidos.
-❤️ Tus favoritos	Se guardan en tu cuenta: los encuentras al volver a iniciar sesión.
-🛵 Seguir tu pedido	Mira el estado de tu pedido y contacta al repartidor por llamada o mensaje.
-🔐 Cuenta segura	Regístrate con correo y contraseña (mínimo 8 caracteres), entra con Google y recupera tu contraseña si la olvidas.
+Última versión
+Descarga directa del APK
 📲 Cómo instalarla
-Descarga ExpressBite.apk con el botón de arriba.
+Descarga ExpressBite.apk.
 Ábrelo desde Mis archivos → Descargas.
 Si el celular lo pide, activa Permitir instalar apps de esta fuente.
-Toca Instalar y listo. 🎉
+Toca Instalar.
 
-[!NOTE] Android puede mostrar un aviso de "app de origen desconocido" o de Play Protect. Es normal fuera de una tienda: toca Más detalles → Instalar de todos modos.
+Android puede mostrar un aviso de "app de origen desconocido" o de Play Protect. Es normal fuera de una tienda: toca Más detalles → Instalar de todos modos.
 
-🔄 ¿Ya tenías una versión anterior?
+Si ya tenías una versión anterior, instala el APK nuevo encima y se actualiza sin perder tu cuenta ni tus datos.
 
-Instala el APK nuevo encima y se actualiza solo, sin perder tu cuenta ni tus datos.
+🔐 Inicio de sesión
 
+Con correo y contraseña (mínimo 8 caracteres), o con tu cuenta de Google. Si olvidas tu contraseña, puedes recuperarla desde la pantalla de inicio de sesión.
+
+✨ Qué puedes hacer
+Elegir hamburguesas, pizzas, tacos, pollo y bebidas, con buscador y categorías.
+Personalizar ingredientes, agregar notas y aplicar un código promocional.
+Guardar, editar y eliminar tus direcciones de entrega.
+Acumular puntos pagando en efectivo y usarlos para pagar tus pedidos.
+Guardar tus favoritos en tu cuenta.
+Seguir el estado de tu pedido y contactar al repartidor por llamada o mensaje.
 🛠️ Si sale "No se instaló la app"
 Desinstala cualquier versión anterior de ExpressBite (revisa también la Carpeta segura).
 Descarga de nuevo el APK con el link directo.
 Instálalo desde Mis archivos, no desde el navegador.
 Revisa que tengas espacio libre y Android 7 o superior.
 En Samsung, desactiva un momento el Bloqueador automático (Ajustes → Seguridad y privacidad).
-💬 ¿Probaste la app?
+💬 Comentarios
 
-Tu opinión ayuda a mejorarla. Cuéntanos qué te gustó o qué falló en Issues.
+Si probaste la app, cuéntanos qué te gustó o qué falló en la sección Issues de este repositorio.
 
-<div align="center">
-
-Versión actual: v2.2.2 
-
-</div>
+Versión actual: v2.2.2
