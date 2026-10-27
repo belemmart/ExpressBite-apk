@@ -25,7 +25,7 @@ Con correo y contraseña, o con tu cuenta de Google.
 3. Instálalo desde **Mis archivos**, no desde el navegador.
 4. Revisa que tengas espacio libre y Android 7 o superior.
 5. En Samsung, desactiva un momento el **Bloqueador automático** (Ajustes → Seguridad y privacidad).
-6. Si sigue fallando, [abre un Issue](https://github.com/belemmart/ExpressBite-apk/issues/new) con tu modelo de celular y versión de Android.
+
 
 ## Versión actual
 v2.1.0
