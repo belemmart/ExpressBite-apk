@@ -1,31 +1,49 @@
-# ExpressBite
+<div align="center"> <img src="logo.png" alt="Logo de ExpressBite" width="200"/>
+🍔 ExpressBite
+Tu comida rápida favorita, a un toque de distancia
 
-App móvil de pedidos de comida rápida para Android.
+Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
-## Descargar
-El APK está en **Releases** (a la derecha de esta página).
+<br/>
 
-- [Última versión](https://github.com/belemmart/ExpressBite-apk/releases/latest)
-- [Descarga directa del APK](https://github.com/belemmart/ExpressBite-apk/releases/latest/download/ExpressBite.apk)
+Descargar APK
 
-## Cómo instalarla
-1. Descarga `ExpressBite.apk`.
-2. Ábrelo desde **Mis archivos → Descargas**.
-3. Si el celular lo pide, activa **Permitir instalar apps de esta fuente**.
-4. Toca **Instalar**.
+📦 Ver última versión · 🐞 Reportar un problema
 
-> Android puede mostrar un aviso de "app de origen desconocido" o de Play Protect. Es normal fuera de una tienda: toca **Más detalles → Instalar de todos modos**.
+</div>
+✨ ¿Qué puedes hacer en ExpressBite?
+	
+🍕 Elegir tu antojo	Hamburguesas, pizzas, tacos, pollo y bebidas con buscador y categorías.
+🛒 Armar tu pedido	Personaliza ingredientes, agrega notas y aplica tu código promocional.
+📍 Guardar direcciones	Agrega, edita o elimina tus direcciones de entrega.
+⭐ Ganar puntos	Acumula puntos pagando en efectivo y úsalos para pagar tus pedidos.
+❤️ Tus favoritos	Se guardan en tu cuenta: los encuentras al volver a iniciar sesión.
+🛵 Seguir tu pedido	Mira el estado de tu pedido y contacta al repartidor por llamada o mensaje.
+🔐 Cuenta segura	Regístrate con correo y contraseña (mínimo 8 caracteres), entra con Google y recupera tu contraseña si la olvidas.
+📲 Cómo instalarla
+Descarga ExpressBite.apk con el botón de arriba.
+Ábrelo desde Mis archivos → Descargas.
+Si el celular lo pide, activa Permitir instalar apps de esta fuente.
+Toca Instalar y listo. 🎉
 
-## Inicio de sesión
-Con correo y contraseña, o con tu cuenta de Google.
+[!NOTE] Android puede mostrar un aviso de "app de origen desconocido" o de Play Protect. Es normal fuera de una tienda: toca Más detalles → Instalar de todos modos.
 
-## Si sale "No se instaló la app"
-1. Desinstala cualquier versión anterior de ExpressBite (revisa también la Carpeta segura).
-2. Descarga de nuevo el APK con el link directo.
-3. Instálalo desde **Mis archivos**, no desde el navegador.
-4. Revisa que tengas espacio libre y Android 7 o superior.
-5. En Samsung, desactiva un momento el **Bloqueador automático** (Ajustes → Seguridad y privacidad).
+🔄 ¿Ya tenías una versión anterior?
 
+Instala el APK nuevo encima y se actualiza solo, sin perder tu cuenta ni tus datos.
 
-## Versión actual
-v2.1.0
+🛠️ Si sale "No se instaló la app"
+Desinstala cualquier versión anterior de ExpressBite (revisa también la Carpeta segura).
+Descarga de nuevo el APK con el link directo.
+Instálalo desde Mis archivos, no desde el navegador.
+Revisa que tengas espacio libre y Android 7 o superior.
+En Samsung, desactiva un momento el Bloqueador automático (Ajustes → Seguridad y privacidad).
+💬 ¿Probaste la app?
+
+Tu opinión ayuda a mejorarla. Cuéntanos qué te gustó o qué falló en Issues.
+
+<div align="center">
+
+Versión actual: v2.2.2 
+
+</div>
